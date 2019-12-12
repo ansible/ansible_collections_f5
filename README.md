@@ -1,3 +1,7 @@
+# This repo has moved. Please go to the repo listed below for issues or up to date code. 
+https://github.com/F5Networks/f5-ansible
+
+
 # f5networks.f5_modules
 
 **F5 Ansible collections are currently in preview. This notice will be removed once they are finalized.**
